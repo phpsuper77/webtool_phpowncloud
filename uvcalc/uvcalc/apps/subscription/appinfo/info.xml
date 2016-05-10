@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<info>
+    <id>subscription</id>
+    <name>Subscription</name>
+    <description>Subscriptions</description>
+    <version>0.85</version>
+    <licence>Proprietary</licence>
+    <author>Kevin Wright</author>
+    <requiremin>6</requiremin>
+    <standalone/>
+</info>

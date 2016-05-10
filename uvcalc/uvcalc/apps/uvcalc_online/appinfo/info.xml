@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<info>
+    <id>uvcalc_online</id>
+    <name>UVCOnline</name>
+    <description>Simple app that does some computing</description>
+    <version>0.51</version>
+    <licence>Proprietary</licence>
+    <author>Kevin Wright</author>
+    <requiremin>6</requiremin>
+    <standalone/>
+</info>

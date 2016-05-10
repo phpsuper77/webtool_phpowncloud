@@ -1,0 +1,71 @@
+form,td{
+ font-size: x-large;
+}
+
+table{
+ white-space: normal;
+}
+
+input[type="text"]{
+ height:20px;
+ width:150px;
+ font-size: large;
+}
+.uvconline-table{
+    border: solid 2px;
+    border-radius:25px;
+    border-spacing: 2px; 
+    border-color: #990066; 
+    //text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+	//color: rgb(66, 139, 202);
+	//text-shadow: 0 1px 2px #990066;
+}
+
+.uvconline-table-th{
+    background-color: #990066;
+	color: #FFF;
+    border-top-right-radius: 25px; 
+    border-top-left-radius: 25px;
+    //padding-left:3%;
+    padding-top:3%;
+    padding-bottom:3%;
+    text-align:center;
+}
+
+.uvconline-table-td input[type="radio"]{
+    //padding-top:1%;
+    //padding-left:1px;
+    //padding-bottom:1%;
+    margin-left: 3px;
+    margin-right: 2px;
+}
+
+
+
+.uvconline-table-multilamp-td{
+    //padding-top:1%;
+    padding-left:0%;
+    //padding-bottom:1%;
+    text-align:center;
+}
+
+.uvconline-table-div{
+    width:50%;
+    margin-top:2%;
+    background-color:transparent;
+    display:inline-block;
+    font-size:large
+}
+input.multilamp-coordinate-text{
+    width:50%;
+}
+input.medium-pressure-text{
+    width:50%;
+}
+#searchbox{
+    outline:#aaaaaa solid;
+    border-radius:25px;
+}
+/*{
+    visibility:hidden;
+}*/
